@@ -1,4 +1,4 @@
-# StudentDataAnalysis
+# StudentDataProject
 
 This project is on student information from my college 
 
